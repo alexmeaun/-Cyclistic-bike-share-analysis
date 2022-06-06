@@ -35,7 +35,7 @@ In order to be able to acomplish the goal, there are 3 questions that need to be
 
 I was assigned with the first question: How do annual members and casual riders use Cyclistic bikes differently?
 
-
+***In order to answer all business questions, I will use the six steps of the data analysis process: Ask, Prepare, Process, Analyize, Share, Act.***
 
 
 
