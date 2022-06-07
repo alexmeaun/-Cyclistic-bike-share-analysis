@@ -1,0 +1,7 @@
+Step 3: Process
+
+Data appears to be clean, so I'll proceed directly to manipulating it in order to get some insights.
+
+I created a hierarichal foldering system. In "Cyclistic" folder, are 2 folders, "CSV" which contains the data from the 12 months in csv type, and a "XLS" folder that 
+will contain the same data in xls format.
+Created a new column "ride_length" where will be stored data about the lengths of each ride by subtracting the column "started_at" from the column "ended_at"
