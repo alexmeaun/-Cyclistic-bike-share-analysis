@@ -1,0 +1,10 @@
+Step 4: Analyze (Spreadsheet)
+
+Used CONCAT to merge together start lat & lgt, and end lat & lgt.
+Found the ride mean time of casual and member riders
+Found the max time ridden by a casual and member rider
+Found total time riddent by different rider types
+Found the total number of weekdays and weekend days in which bikes where used.
+Used Pivot Table to find more insights.
+
+I have found that 
