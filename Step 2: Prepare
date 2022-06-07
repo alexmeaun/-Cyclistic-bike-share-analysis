@@ -5,5 +5,9 @@ The data that is going to be used for the analysis is of the previous 12 months.
 and identify trends and patterns.
 
 The data is divided by month from June of 2021 to May of 2022.
+Data will include the ride id, bike type, start date of the ride, end date of the ride, start station name, start station id, end station name, end station id, 
+start lat, start lng, end lat, end lng, customer type(member or casual rider).
+Spreadsheets with data of the months (Aug.2021, Jun.2021, Nov.2021, Sept.2021, Oct.2021) does not contain almost any data in columns (start station name, 
+start station id, end station name, end station id)
 
 The format of the data is an CSV.
