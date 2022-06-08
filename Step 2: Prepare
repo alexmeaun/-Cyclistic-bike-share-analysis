@@ -11,3 +11,5 @@ Spreadsheets with data of the months (Aug.2021, Jun.2021, Nov.2021, Sept.2021, O
 start station id, end station name, end station id)
 
 The format of the data is an CSV.
+
+The data can be found on https://divvy-tripdata.s3.amazonaws.com/index.html.
